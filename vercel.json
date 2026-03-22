@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/comments.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
-}
